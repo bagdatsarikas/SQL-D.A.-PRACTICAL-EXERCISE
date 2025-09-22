@@ -19,8 +19,7 @@ The goal is to offer:
 
 1. ✅ **Practical Exercises**: Gain hands-on experience writing SQL queries and analyzing data.
 2. ✅ **Step-by-step Progression**: Start from beginner-level queries and move to advanced SQL techniques.
-3. ✅ **Real-World Data**: Use real-world datasets to understand how SQL is applied in data analysis.
-4. ✅ **Perfect for Crash Course Learners**: Ideal for anyone learning SQL quickly, with a focus on essential concepts and best practices.
+3. ✅ **Perfect for Crash Course Learners**: Ideal for anyone learning SQL quickly, with a focus on essential concepts and best practices.
 
 ### Repository Structure
 
